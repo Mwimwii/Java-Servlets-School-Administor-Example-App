@@ -25,6 +25,6 @@
 - #### Java Web API (7+) - This library will be required for the usage of the servlet features. So if you don't have the library added to your project:
   - ##### Right-Click on "`Libraries`"
   - ##### Select "`Add Library`"
-  - ##### Select the "`Java Web API`" version available, versionpreferably 8.
+  - ##### Select the "`Java Web API`" version available, preferably 8.
 
 #### This is a `[Ant]` project, will change to `[Maven]`.
