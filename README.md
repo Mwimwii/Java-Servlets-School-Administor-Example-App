@@ -23,8 +23,8 @@
 
 - #### GlassFish Server - If you don't have GlassFish installed, you will be promted to "`Resolve problems by insalling missing server`" or whatever. Just `Right-Click` on your `project` folder, and follow the Resolution Wizard by installing GlassFish. You don't need to worry about any further configuration beyond the installation, and any version of the Glassfish Embedded Server will do.
 - #### Java Web API (7+) - This library will be required for the usage of the servlet features. So if you don't have the library added to your project:
-  - ##### Right-Click on **"Libraries"**
-  - ##### Select **"Add Library"**
-  - ##### Select the **"Java Web API"** version available, versionpreferably 8.
+  - ##### Right-Click on "`Libraries`"
+  - ##### Select "`Add Library`"
+  - ##### Select the "`Java Web API`" version available, versionpreferably 8.
 
 #### This is a `[Ant]` project, will change to `[Maven]`.
